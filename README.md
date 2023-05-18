@@ -11,10 +11,16 @@ Deberán implementar una metodología que salvaguarde un servidor web. Aplicar l
 
 
 
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-   <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="mssql" width="40" height="40"/>         
+<p align="left"> <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="mssql" width="40" height="40"/> 
+           
+           
+           
+   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="mssql" width="40" height="40"/>      
+              
+              
+              
   </a> 
 </p>
 
