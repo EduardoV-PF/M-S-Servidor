@@ -8,9 +8,6 @@ Descripción:
 Deberán implementar una metodología que salvaguarde un servidor web. Aplicar los conceptos de seguridad informática a redes de computadoras en las organizaciones con vista a detectar fallos y mejorar la seguridad tanto en la red interna como en la posible red externa. 
            
 
-
-
-
 <p align="left"> <a href="https://ubuntu.com/download/server" target="_blank" rel="noreferrer"> 
   <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="mssql" width="40" height="40"/> 
            
