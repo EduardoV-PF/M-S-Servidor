@@ -11,7 +11,7 @@ Deberán implementar una metodología que salvaguarde un servidor web. Aplicar l
 
 
 
-<p align="left"> <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://ubuntu.com/download/server" target="_blank" rel="noreferrer"> 
   <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="mssql" width="40" height="40"/> 
            
            
