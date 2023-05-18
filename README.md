@@ -14,10 +14,15 @@ Deberán implementar una metodología que salvaguarde un servidor web. Aplicar l
   <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="mssql" width="40" height="40"/> 
            
            
+           https://www.virtualbox.org/graphics/vbox_logo2_gradient.png
            
+     
    <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="mssql" width="40" height="40"/>      
               
+              
+ <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="mssql" width="40" height="40"/>      
               
               
   </a> 
