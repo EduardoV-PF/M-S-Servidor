@@ -1,11 +1,13 @@
 # M-S-Servidor-
 Metodología Para Salvaguardar un Servidor 
 
-<h3 align="Objetivo: Desarrollar un proyecto de seguridad informática, del mundo real, asegurando los tres pilares de la seguridad la confidencialidad, integridad y disponibilidad de la información protegida.
+Objetivo: 
+Desarrollar un proyecto de seguridad informática, del mundo real, asegurando los tres pilares de la seguridad la confidencialidad, integridad y disponibilidad de la información protegida.
 
+Descripción:
 Deberán implementar una metodología que salvaguarde un servidor web. Aplicar los conceptos de seguridad informática a redes de computadoras en las organizaciones con vista a detectar fallos y mejorar la seguridad tanto en la red interna como en la posible red externa. 
            
-</h3>
+
 
 
 
